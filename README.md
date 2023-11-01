@@ -1,3 +1,8 @@
+# このリポジトリはアーカイブしています
+
+[旧サーバーリポジトリ](https://github.com/moorestech/moorestech)と統合し、こちらはアーカイブされています
+
+
 # moorestech_client
 
 工業ゲームmoorestechのUnityクライアントです
